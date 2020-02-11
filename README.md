@@ -1,8 +1,6 @@
 # logo
 Concept of logo
 
-    Font in use HKGrotesk-Bold designed by Hanken Design Co. and licensed under Open Font License. Icon Designed by Pham Duy Phuong Hung
-
 ## Font
 Font in use <a target="_blank" href="https://hanken.co/product/hk-grotesk/">HKGrotesk-Bold</a> designed by
 <a target="_blank" href="https://hanken.co/">Hanken Design Co.</a>
@@ -11,6 +9,20 @@ and licensed under
   Icon Designed by
 <a target="_blank" href="https://thenounproject.com/duyhung7689">Pham Duy Phuong Hung</a>
 
+
+### css 
+    p {
+       font-family: 'HKGroteskRegular';
+       font-weight: normal;
+       font-style: normal;
+    }
+
+
+### html
+
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/>
+    
+    
 # Logo
 
 ## 1
