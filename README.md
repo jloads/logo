@@ -9,7 +9,23 @@ and licensed under
   Icon Designed by
 <a target="_blank" href="https://thenounproject.com/duyhung7689">Pham Duy Phuong Hung</a>
 
+## Colors
 
+### icon
+  
+  + yellow
+  + #f7df1e
+
+### background
+
+  + black
+  + #000000
+  
+### font
+  
+  + white
+  + FFFFFF
+  
 ### css 
     p {
        font-family: 'HKGroteskRegular';
