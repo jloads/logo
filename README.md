@@ -24,7 +24,7 @@ and licensed under
 ### font
   
   + white
-  + FFFFFF
+  + #FFFFFF
   
 ### css 
     p {
