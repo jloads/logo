@@ -11,8 +11,8 @@ icon designer: Vectors Market
 icon designer link: /vectorsmarket
         
 
-fontColor: {"gradient-0":"#4B4B4B","gradient-1":"#efd81d"}
+fontColor: {"gradient-0":"#D6D6D6","gradient-1":"#efd81d"}
 bgColor: {"hex":"transparent"}
-iconColor: {"gradient-0":"#4B4B4B","gradient-1":"#efd81d"}
+iconColor: {"gradient-0":"#D6D6D6","gradient-1":"#efd81d"}
 
       
