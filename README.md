@@ -2,31 +2,31 @@
 Concept of logo
 
 ## Font
-Font in use <a target="_blank" href="https://hanken.co/product/hk-grotesk/">HKGrotesk-Bold</a> designed by
-<a target="_blank" href="https://hanken.co/">Hanken Design Co.</a>
+
+
+Font in use <a target="_blank" href="https://fonts.google.com/specimen/Neuton">Neuton-Bold</a> designed by
+<a target="_blank" href="https://brianskywalker.deviantart.com/">Brian Zick</a>
 and licensed under
 <a target="_blank" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL_web">Open Font License.</a>
-  Icon Designed by
-<a target="_blank" href="https://thenounproject.com/duyhung7689">Pham Duy Phuong Hung</a>
+Icon Designed by
+<a target="_blank" href="https://thenounproject.com/vectorsmarket">Vectors Market</a>
 
 ## Colors
 
 ### icon
-  
-  + yellow
-  + #f7df1e
+
+    #4B4B4B, #efd81d
 
 ### background
 
-  + black
-  + #000000
+    transparent
   
 ### font
   
-  + white
-  + #FFFFFF
+  #4B4B4B, #efd81d
   
 ### css 
+
     p {
        font-family: 'HKGroteskRegular';
        font-weight: normal;
@@ -47,11 +47,12 @@ and licensed under
 ## 2
 ![2/cover.png](2/cover.png)
 
+## 3
+![3/cover.png](3/cover.png)
+
 ## 4
 ![4/cover.png](4/cover.png)
 
-## 3
-![3/cover.png](3/cover.png)
 
 ## 6
 ![6/cover.png](6/cover.png)

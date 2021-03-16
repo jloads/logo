@@ -1,14 +1,18 @@
 
 Hope you enjoy your new logo, here are the people that
 made your beautiful logo happen :)
-font name: Cabin-Regular
-font link: https://fonts.google.com/specimen/Cabin
-font author: Impallari Type
-font author site: www.impallari.com
+font name: Neuton-Bold
+font link: https://fonts.google.com/specimen/Neuton
+font author: Brian Zick
+font author site: https://brianskywalker.deviantart.com/
 
 
-icon designer: Pham Duy Phuong Hung
-icon designer link: /duyhung7689
+icon designer: Vectors Market
+icon designer link: /vectorsmarket
         
-{"bg":"#0B173D","icon":"#D1A103","font":"#D1A103","slogan":"#e5b517"}
+
+fontColor: {"gradient-0":"#4B4B4B","gradient-1":"#efd81d"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#4B4B4B","gradient-1":"#efd81d"}
+
       
